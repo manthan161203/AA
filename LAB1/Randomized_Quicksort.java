@@ -1,3 +1,6 @@
+package LAB1;
+
+
 import java.util.Random;
 
 public class Randomized_Quicksort {
